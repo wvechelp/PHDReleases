@@ -1,7 +1,6 @@
 ##############Part 0: General info########################################
 ###############Section 1: Location & info#################################
-setwd("C:/Users/wvechelp/OneDrive - UGent/Aeco/Doctoral School/A Research/PhD/Chapter 1/DataScripts")
-#Remarks: Last successful run: 21/01/2020; Last changes: 21/01/2020
+setwd(choose.dir())
 ###############Section 2: Packages########################################
 install.packages('ggplot2') #For plotting
 ###############Section 3: Libraries#######################################
