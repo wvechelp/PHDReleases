@@ -1,7 +1,6 @@
 ##############Part 0: General info########################################
 ###############Section 1: Location & info#################################
-setwd("C:/Users/wvechelp/OneDrive - UGent/Aeco/Doctoral School/A Research/PhD/Chapter 4/DataScripts") # setwd(choose.dir())
-#Remarks: Last successful run: 03/07/2019 ; Last changes: 01/08/2020 (naming)
+setwd(choose.dir())
 ###############Section 2: Packages########################################
 install.packages('reshape') #For re-structuring data
 install.packages('ggplot2'); install.packages('ggpubr') #For plotting
